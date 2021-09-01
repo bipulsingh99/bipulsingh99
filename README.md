@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in frontend web development and competitive programming.
 
-- 🌱 I’m currently learning reactJs
+- 🌱 I’m currently learning reactJs,ExpressJs
 
 - 💻 I'm a Competitive Programmer and passionate about solving complex Algorithmic Problems.
 
